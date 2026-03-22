@@ -1,0 +1,13 @@
+{
+  "name": "streaming-chat",
+  "version": "1.0.0",
+  "description": "Real-time streaming chat using OpenAI and Server-Sent Events",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
